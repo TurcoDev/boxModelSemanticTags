@@ -1,0 +1,65 @@
+.generales{
+  border: 3px solid black;
+  font-size: 36px;
+  font-weight: bolder;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.color-base{
+  background-color: orangered;
+}
+
+.color-light{
+  background-color: orange;
+}
+
+#header{
+  height: 75px;
+  width: 600px;
+  text-align: end;
+  padding: 10px;
+  margin: 10px;
+}
+
+nav{
+  height: 50px;
+  width: 250px;
+  display: inline-block;
+}
+
+main{
+  height: 400px;
+  width: 600px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#left{
+  display: inline-block;
+  text-align: start;
+  width: 400px;
+}
+
+.art-sec{
+  height: 120px;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+}
+
+aside{
+  height: 250px;
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  vertical-align: 150px;
+}
+
+footer{
+  height: 75px;
+  width: 600px;
+  padding: 10px;
+  margin: 10px;
+}
